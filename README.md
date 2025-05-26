@@ -1,4 +1,4 @@
-# Ashima Ridzuan
+# Hello Assalammualaikun, I'm Ashima!
 A glimpse into what I do, love, and create!
 
 ###
