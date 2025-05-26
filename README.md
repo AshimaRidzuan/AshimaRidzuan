@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/d56244c7-4e53-40b3-86c1-110214a03f96)
 # Ashima Ridzuan
 A glimpse into what I do, love, and create!
 
@@ -42,7 +41,7 @@ A glimpse into what I do, love, and create!
 
 ###
 
-
+![Image](https://github.com/user-attachments/assets/d56244c7-4e53-40b3-86c1-110214a03f96)
 
 ###
 
