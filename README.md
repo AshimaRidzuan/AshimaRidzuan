@@ -1,4 +1,4 @@
-# Hello Assalammualaikum, I'm Ashima!
+# Hello Assalammualaikum!
 A glimpse into what I do, love, and create!
 
 ###
@@ -7,7 +7,7 @@ A glimpse into what I do, love, and create!
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">Assalammualaikum, Hello! I'm Ashima.<br>
   Exploring, learning, and building — one step (and bug) at a time.<br>
-  Currently working on improving my web dev skills and exploring GitHub, design systems.<br> 
+  Currently working on improving my web dev skills and exploring GitHub.<br> 
   I’m also interested in UI/UX, and creative coding projects.
 
   ###
