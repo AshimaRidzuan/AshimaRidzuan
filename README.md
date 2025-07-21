@@ -43,3 +43,29 @@ A glimpse into what I do, love, and create!
 ![Image](https://github.com/user-attachments/assets/d56244c7-4e53-40b3-86c1-110214a03f96)
 
 ###
+
+
+<style>
+h1 {
+    font-family: 'Sour Gummy', cursive;
+    font-weight: 900;
+    color: #ff6347; /* Tomato color */
+}
+h2 {
+    font-family: 'Sour Gummy', cursive;
+    font-weight: 700;
+    color: #4682b4; /* Steel Blue color */
+}
+
+h3 {
+    font-family: 'Sour Gummy', cursive;
+    font-weight: 500;
+    color: #32cd32; /* Lime Green color */
+}
+body {
+    font-family: 'Sour Gummy', cursive;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+</style>
