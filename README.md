@@ -44,7 +44,7 @@ A glimpse into what I do, love, and create!
 
 ###
 
-<style>@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+<style>
 h1 {
     font-family: 'Sour Gummy', cursive;
     font-weight: 900;
