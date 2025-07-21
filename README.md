@@ -5,9 +5,20 @@ A glimpse into what I do, love, and create!
 
 <br>
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">Exploring, learning, and building — one step (and bug) at a time.<br>
-  Currently working on improving my web dev skills and exploring GitHub.<br> 
-  I’m also interested in UI/UX, and creative coding projects.
+<p align="left">Here is Ashima. I'm diving into the world of code, exploring, learning, and building. Step-by-baby-step (and bug) at a time hahaha.
+Right now, I'm sharpening my web development skills, experimenting with GitHub, and discovering the fun side of UI/UX and creative coding.
+This page is where I document the journey ... from "Hello World" to who-knows-what’s-next. Thanks for dropping by!</p>
+
+  ###
+
+<br>
+<h3 align="left">🧩 My Mini Project</h3>
+- Calculator using Javascript
+- Weather Checker using OpenWeatherMap API
+- To-do List 
+- Animation with CSS
+- Stock Market Dashboard
+
 
   ###
 
@@ -25,21 +36,12 @@ A glimpse into what I do, love, and create!
 
 ###
 
-<br>
-<h3 align="left">My Stats :</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AshimaRidzuan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
-
-<br>
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
 
 ###
 
 ![Image](https://github.com/user-attachments/assets/d56244c7-4e53-40b3-86c1-110214a03f96)
 
 ###
+
+<p>© 2025 Ashima Ridzuan</p>
